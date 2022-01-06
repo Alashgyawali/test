@@ -4,4 +4,5 @@ let c=true;
 
 
 let d=new String("alash");
-let b=new Number
+let b=new Number(20)
+console.log(b);
